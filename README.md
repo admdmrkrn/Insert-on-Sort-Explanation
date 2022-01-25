@@ -11,3 +11,6 @@
 Linear Tip (N-1)
 İşlem sayısı 1 azalarak ilerler.
 ----------------------------------------------------------------
+***Time Complexity: Average case: Aradığımız sayının ortada olması ***
+***Worst case: Aradığımız sayının sonda olması*** 
+*** Best case: Aradığımız sayının dizinin en başında olması.***
